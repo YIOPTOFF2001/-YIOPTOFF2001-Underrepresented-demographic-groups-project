@@ -1,4 +1,4 @@
-Data Portfolio
+
 
 # Data Portfolio: Kaggle to pivot chart in Excel.
 
@@ -77,3 +77,32 @@ The data is sourced from the company's database(an Excel extract), [see here to 
 - Developement
 - Testing
 - Analysis
+  
+ # Design
+## Pivot chart components required 
+- What should the pivot chart contain based on the requirements provided?
+
+To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
+
+1. Which areas have the least amount of sales?
+2. Which age group buys the product the most?
+3. Which gender uses the product the least?
+4. Where can we implement new marketing strategies?
+
+
+
+## Pivot chart
+
+- What should it look like? 
+
+Some of the data visuals that may be appropriate in answering our questions include:
+
+1. Bar charts
+2. Pie charts
+4. Horizontal bar chart 
+
+
+
+
+![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+
