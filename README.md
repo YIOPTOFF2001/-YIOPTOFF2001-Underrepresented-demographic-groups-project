@@ -99,10 +99,33 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 1. Bar charts
 2. Pie charts
+3. Clustered column chart
 4. Horizontal bar chart 
-
-
-
 
 ![Dashboard-Mockup](assets/images/dashboard_mockup.png)
 
+Tools 
+
+
+| Tool | Purpose |
+| --- | --- |
+| Excel | Exploring the data |
+| SQL Server | Cleaning, testing, and analyzing the data |
+| Pivot chart | Visualizing the data |
+| GitHub | Hosting the project documentation and version control |
+
+# Development
+
+## Pseudocode
+
+- What's the general approach in creating this solution from start to finish?
+
+1. Get the data
+2. Explore the data in Excel
+3. Load the data into SQL Server
+4. Clean the data with SQL
+5. Test the data with SQL
+6. Visualize the data in Pivot chart
+7. Generate the findings based on the insights
+8. Write the documentation + commentary
+9. Publish the data to GitHub Pages
