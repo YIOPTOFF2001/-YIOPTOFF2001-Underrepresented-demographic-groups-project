@@ -2,6 +2,7 @@
 
 # Data Portfolio: Kaggle to pivot chart in Excel.
 
+![excel-to-powerbi-animated-diagram](Assets/Images/IMG-20240625-WA0000.jpg)
 # Table of contents 
 
 - [Objective](#objective)
