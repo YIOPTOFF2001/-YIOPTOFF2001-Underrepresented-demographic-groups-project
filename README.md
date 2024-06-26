@@ -97,10 +97,15 @@ To understand what it should contain, we need to figure out what questions we ne
 
 Some of the data visuals that may be appropriate in answering our questions include:
 
-1. Bar charts
-2. Pie charts
+1. Column chart
+2. 3D column
 3. Clustered column chart
-4. Horizontal bar chart 
+4. Stacked column
+5. 100% stacked column
+6. 3D clustered column
+7. 3D stacked column
+8. 3D 100% stacked column
+   
 
 Tools 
 
