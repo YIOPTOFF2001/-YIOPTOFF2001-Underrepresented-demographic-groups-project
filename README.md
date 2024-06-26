@@ -158,25 +158,25 @@ Below is a table outlining the constraints on our cleaned dataset:
 
 | Property | Description |
 | --- | --- |
-| Number of Rows | 100 |
-| Number of Columns | 4 |
+| Number of Rows | 113037 |
+| Number of Columns | 5|
 
 And here is a tabular representation of the expected schema for the clean data:
 
 | Column Name | Data Type | Nullable |
 | --- | --- | --- |
-| channel_name | VARCHAR | NO |
-| total_subscribers | INTEGER | NO |
-| total_views | INTEGER | NO |
-| total_videos | INTEGER | NO |
+| age group | INTEGER | NO |
+| gender | CHAR | NO |
+| sales | INTEGER | NO |
+| country | CHAR | NO |
 
 
 
 - What steps are needed to clean and shape the data into the desired format?
 
 1. Remove unnecessary columns by only selecting the ones you need
-2. Extract Youtube channel names from the first column
-3. Rename columns using aliases
+2. Sorting the data by dates from the newest to the olders.
+3. Removing duplicate values and filling in null values.
 
 
 
