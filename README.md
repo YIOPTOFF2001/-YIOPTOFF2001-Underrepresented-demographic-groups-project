@@ -102,8 +102,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 3. Clustered column chart
 4. Horizontal bar chart 
 
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)
-
 Tools 
 
 
