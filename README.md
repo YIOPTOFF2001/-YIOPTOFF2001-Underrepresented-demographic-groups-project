@@ -69,7 +69,7 @@ We need data on the company's sales for the past 5 years, to see how sales have 
 
 
 - Where is the data coming from? 
-The data is sourced from the company's database(an Excel extract), [see here to find it.](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
+The data is sourced from the company's database(an Excel extract).
 
 # Stages
 
