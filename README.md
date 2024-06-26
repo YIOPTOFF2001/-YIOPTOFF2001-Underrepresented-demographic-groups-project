@@ -129,18 +129,18 @@ Tools
 9. Publish the data to GitHub Pages
 ## Data exploration notes
 
-This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc  
+This is the stage where you have a scan of what's in the data, errors, inconsistencies, bugs, weird and corrupted characters etc  
 
 
 - What are your initial observations with this dataset? What's caught your attention so far? 
 
-1. There are at least 4 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the client for any more data. 
-2. The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.
-3. Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.
+1. There are at least 18 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the client for any more data. 
+2. The columns contains the date, day, month, customer, age group, gender, country, state, product category, sub-category, product name, order quantity, unit cost, profit, cost and, revenue
+3. We have a column for the date in the YYYY/MM/DD format and yet again we have a columns for the day, month and year, those columns are unnecessary and should be discarded.
 4. We have more data than we need, so some of these columns would need to be removed
 
 
-
+(Assets/Images/Screen.png)
 
 
 ## Data cleaning 
