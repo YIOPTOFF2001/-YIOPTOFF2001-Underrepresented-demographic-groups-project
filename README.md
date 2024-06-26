@@ -140,7 +140,7 @@ This is the stage where you have a scan of what's in the data, errors, inconsist
 4. We have more data than we need, so some of these columns would need to be removed
 
 
-(Assets/Images/Screen.png)
+![alt](Assets/Images/Screen.png)
 
 
 ## Data cleaning 
