@@ -15,7 +15,6 @@
   - [Pseudocode](#pseudocode)
   - [Data Exploration](#data-exploration)
   - [Data Cleaning](#data-cleaning)
-  - [Transform the Data](#transform-the-data)
   - [Create the SQL View](#create-the-sql-view)
 - [Testing](#testing)
   - [Data Quality Tests](#data-quality-tests)
@@ -191,6 +190,6 @@ And here is a tabular representation of the expected schema for the clean data:
 
 
 
-### Transform the data 
+
 
     
