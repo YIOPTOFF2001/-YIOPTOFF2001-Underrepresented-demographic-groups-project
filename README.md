@@ -172,7 +172,7 @@ And here is a tabular representation of the expected schema for the clean data:
 | --- | --- | --- |
 | age group | INTEGER | NO |
 | gender | CHAR | NO |
-| sales | INTEGER | NO |
+| order quantity | INTEGER | NO |
 | country | CHAR | NO |
 
 
@@ -182,6 +182,8 @@ And here is a tabular representation of the expected schema for the clean data:
 1. Remove unnecessary columns by only selecting the ones you need
 2. Sorting the data by dates from the newest to the olders.
 3. Removing duplicate values and filling in null values.
+
+   ![exception](Assets/Images/deleted.png)
 
 
 
